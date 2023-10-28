@@ -253,12 +253,11 @@ Explanation: Report Generation functionalities for cereals were validated, confi
 Figure 7: Cereal Stock Report
 Figure 8: Cereal Sales Report
 
-Note: Replace "url_to_your_imageX" with the actual URLs pointing to the respective screenshots or figures demonstrating the test results for each functionality related to cereals. Include visuals such as screenshots, charts, or diagrams to enhance the understanding of the test outcomes for cereals.
+
 
 
 Discussion of the project result:
-i felt like understanding the question of the project is more harder than coding it. Other than that i felt like i suceeded on what the project was asking for
-
+i felt like this project was well put-out. I was able to follow directions and figure out how to set things up. I'm actually currently working in retail so getting the point of the project wasn't hard and the coding part just made it seems interesting on how retail works.i would the generator part was the hardest thing to code. i was unsure if i needed specific products or not to make the generator work but i figured it out! So i would say the user experience was a challenge
 
 
 
